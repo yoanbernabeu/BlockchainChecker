@@ -10,7 +10,7 @@ $ composer install
 
 ## API Checker Crypto
 
-To use the API checker crypto, you need to create a `.env` file in the root directory of the project with the following content:
+To use the API checker crypto, you need to create a `.env.local` file in the root directory of the project with the following content (example [.env.local](https://raw.githubusercontent.com/yoanbernabeu/BlockchainChecker/refs/heads/main/.env.local)):
 
 This API provider is used to check the status of a blockchain. **SENSITIVE DATA**
 
