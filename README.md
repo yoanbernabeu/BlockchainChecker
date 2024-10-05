@@ -20,6 +20,14 @@ API_KEY=
 API_URL=
 ```
 
+## Test your API
+
+You can test your API with the following command:
+
+```bash
+$ curl -H "X-Api-Key: API_KEY" API_URL
+```
+
 ## Usage
 
 ```bash
